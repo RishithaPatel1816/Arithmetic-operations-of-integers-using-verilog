@@ -1,3 +1,5 @@
+//1 to 4 decoder :)
+
 module decoder(
     input[1:0]i,
     output reg[3:0]o

@@ -1,3 +1,5 @@
+//4-1-Encoder
+
 module priority_encoder(
     input[3:0]i,
     output [1:0]o,
